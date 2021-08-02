@@ -1,12 +1,12 @@
 public class Cycle1 {
     public static void main(String[] args) {
         for (int i = 0; i <= 20; i++) {
-            System.out.println("Число: " + i);
+        System.out.println("Число: " + i);
         }
 
         int counter = -6;
         while (counter < 8) {
-            System.out.println("Вы написали: " + counter);
+        System.out.println("Вы написали: " + counter);
             counter += 2;
         }
 
