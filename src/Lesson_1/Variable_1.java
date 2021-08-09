@@ -1,3 +1,5 @@
+package Lesson_1;
+
 public class Variable_1 {
     public static void main(String[] args) {
         double cpu = 3.4;
